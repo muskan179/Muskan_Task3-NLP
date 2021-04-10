@@ -23,3 +23,6 @@ Training different classification models-Logistic Regression,(Multinomial) Naive
 * LogisticRegression        0.8850
 * MultinomialNB             0.8440
 * RandomForestClassifier    0.6036
+
+##Additional information 
+Comments and explanation for why the steps were added and thier need and how it works as well as all errors i faced is all documented in the added comments.
