@@ -12,11 +12,11 @@ I started by looking at some example as well as the number of categories and de
 * Data Cleaning:
 Correcting incorrect encodings, splitting the product category tree, and eliminating unnecessary/invalid features that have no bearing on prediction. I took out the punctuation and stopwords, tokenized it, and then lemmatized it.
 * Data Preprocessing:
-Converting the text features into vectors using TFIDF vectorizer, also used OneHotEncoder on product catagories.
+Converting the text features into vectors using TFIDF vectorizer, also used OneHotEncoder on product catagories and tried Google Word2Vectorizer
 * Feature Engineering: 
 Adding additionally created features to training and test datasets
 * Model Training:
-Training different classification models-Logistic Regression,(Multinomial) Naive Bayes, Linear Support Vector Machine 
+Training different classification models-Logistic Regression,(Multinomial) Naive Bayes, Linear Support Vector Machine
 & Random Forest and comparing them.
 * Evaluation:Comparing the accuracy and recall scores for different models to select the most suitable one. Accuracies of them are as follows:
 * LinearSVC                 0.9438
