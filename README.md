@@ -25,4 +25,4 @@ Training different classification models-Logistic Regression,(Multinomial) Naive
 * RandomForestClassifier    0.6036
 
 ## Additional information 
-Comments and explanation for why the steps were added and thier need and how it works as well as all errors i faced is all documented in the added comments.
+The additional comments section contains explanations for why the steps were introduced, usefulness, and how it functions, as well as all errors I encountered.
